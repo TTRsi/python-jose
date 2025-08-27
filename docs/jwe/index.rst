@@ -14,9 +14,9 @@ The following algorithms are currently supported.
 +==================+================================================+
 | A128CBC-HS256    | AES w/128 bit key in CBC mode w/SHA256 HMAC    |
 +------------------+------------------------------------------------+
-| A192CBC-HS384    | AES w/128 bit key in CBC mode w/SHA256 HMAC    |
+| A192CBC-HS384    | AES w/192 bit key in CBC mode w/SHA384 HMAC    |
 +------------------+------------------------------------------------+
-| A256CBC-HS512    | AES w/128 bit key in CBC mode w/SHA256 HMAC    |
+| A256CBC-HS512    | AES w/256 bit key in CBC mode w/SHA512 HMAC    |
 +------------------+------------------------------------------------+
 | A128GCM          | AES w/128 bit key in GCM mode and GCM auth tag |
 +------------------+------------------------------------------------+
